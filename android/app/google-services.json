@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "491094593251",
+    "project_id": "draw-f4042",
+    "storage_bucket": "draw-f4042.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:491094593251:android:b50fc9345ce724acaf3fd6",
+        "android_client_info": {
+          "package_name": "com.example.draw"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkK7MYkn5FaBkgHEn988Icpnn7Lmaolrc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
